@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/WholePulse.PNG</file>
+        <file>Icons/On_logo.ico</file>
+        <file>Icons/1Pulse.PNG</file>
+        <file>Icons/2Pulse.PNG</file>
+        <file>Icons/xPluse.PNG</file>
+        <file>Icons/Active.png</file>
+        <file>Icons/Inactive.png</file>
+    </qresource>
+</RCC>
